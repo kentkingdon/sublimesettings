@@ -1,0 +1,21 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Auto Semi-Colon",
+		"DocBlockr",
+		"Drupal",
+		"Emmet",
+		"Package Control",
+		"PHP Companion",
+		"Predawn",
+		"Sass",
+		"SideBarEnhancements",
+		"TrailingSpaces",
+		"Vintageous"
+	],
+	"startup_sec": 0.7778041,
+	"time": 1400188645
+}
